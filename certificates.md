@@ -15,4 +15,3 @@ https://github.com/tuzova/certificates/blob/8c307543211e10bebb26d1ef7b818296c4e1
 - ### Сертификат об окончании программы "Автоматизированное тестирование"
 
 https://github.com/tuzova/certificates/blob/8c307543211e10bebb26d1ef7b818296c4e1178a/certificate_aqa.jpg
-
